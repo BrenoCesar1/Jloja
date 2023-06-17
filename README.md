@@ -11,3 +11,5 @@ Java Server Faces 2.2
 Criar uma base de dados no banco de dados com o nome "jloja"
 
 Editar o login e o password do banco de dados no hibernate.cfx.xml
+
+Adicionar um login e um usuário na tabela usuários para poder efetuar o login na aplicação
